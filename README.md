@@ -3,7 +3,8 @@ Tool to Paste files with maintaining folder structure
 
 This Tool helps you overcome the problem many have faced similar to me.
 I was working with my customer and he gives me suggestion to change the website design/functionality day by day. I was changing CSS/JS/HTML in one or two files out of my 100's of files. 
-I want to give him the complete project to him to replace or ask him to replace that files one by one in various folders which is a tedious one.
+
+I want to give him the complete project to replace or ask him to replace that files one by one in various folders which is a tedious one.
 So come up with this tool to minimize my work of either giving the complete package or to explain him to replace the files in exact path.
 I need to provide patch with only changed files to him maintaining the folder structure so that he can easily paste it in root folder without overlooking for the file location.
 
