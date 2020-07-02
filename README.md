@@ -4,7 +4,7 @@ Tool to Paste files with maintaining folder structure
 This Tool helps you overcome the problem many have faced similar to me.
 I was working with my customer and he gives me suggestion to change the website design/functionality day by day. I was changing CSS/JS/HTML in one or two files out of 100's of files in the project. 
 
-I want to give him the complete project to replace or ask him to replace that files one by one in various folders which is a tedious one.
+I want to give him the complete project to replace or ask him to replace the changed files one by one in various folders which is a tedious one.
 So come up with this tool to minimize my work of either giving the complete package or to explain him to replace the files in exact path.
 I need to provide patch with only changed files to him maintaining the folder structure so that he can easily paste it in root folder without overlooking for the file location.
 
@@ -41,6 +41,7 @@ The remaining steps helps to setup to access the tool in context menu i.e via a 
 
 * Copy any File/Files in a folder
 * Right click where you wan to paste the file(s) in folder structure
+    ![Tool2](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/5.PNG)
 * Click on PasteInFolderStructure (or the name you gave in step #6)
     A window will display to select the base folder
     ![Tool1](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/4.PNG)  
