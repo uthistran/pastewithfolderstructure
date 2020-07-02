@@ -28,4 +28,4 @@ Steps to Get Started:
 
 ### 8. In the right side window, Right Click on Default and select modify
     Add the file path of the PasteWithFolderStructure.exe within quotes in Value data
-![Registry3](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/2.PNG)    
+![Registry3](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/3.PNG)    
