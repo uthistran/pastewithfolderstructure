@@ -40,7 +40,7 @@ The remaining steps helps to setup to access the tool in context menu i.e via a 
 ### Now we are all set to use this tool
 
 * Copy any File/Files in a folder
-* Right click where you wan to paste the file(s) in folder structure
+* Right click where you want to paste the file(s) in folder structure
     ![Tool2](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/5.png)
 * Click on PasteInFolderStructure (or the name you gave in step #6)
     A window will display to select the base folder
