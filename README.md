@@ -29,3 +29,14 @@ Steps to Get Started:
 ### 8. In the right side window, Right Click on Default and select modify
     Add the file path of the PasteWithFolderStructure.exe within quotes in Value data
 ![Registry3](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/3.PNG)    
+
+
+### Now we are all set to use this tool
+
+Copy any File/Files in a folder
+Right click where you wan to paste the file(s) in folder structure
+Click on PasteInFolderStructure (or the name you gave in step #6)
+A window will display to select the base folder
+![Tool1](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/4.PNG)  
+Click the folder from which you want to maintain folder structure and click paste. I have selected Test in it
+Your file(s) will be pasted with folder structure
