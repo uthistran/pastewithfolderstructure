@@ -41,7 +41,7 @@ The remaining steps helps to setup to access the tool in context menu i.e via a 
 
 * Copy any File/Files in a folder
 * Right click where you wan to paste the file(s) in folder structure
-    ![Tool2](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/5.PNG)
+    ![Tool2](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/5.png)
 * Click on PasteInFolderStructure (or the name you gave in step #6)
     A window will display to select the base folder
     ![Tool1](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/4.PNG)  
