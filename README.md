@@ -6,7 +6,8 @@ I was working with my customer and he gives me suggestion to change the website 
 
 I want to give him the complete project to replace or ask him to replace the changed files one by one in various folders which is a tedious one.
 So come up with this tool to minimize my work of either giving the complete package or to explain him to replace the files in exact path.
-I need to provide patch with only changed files to him maintaining the folder structure so that he can easily paste it in root folder without overlooking for the file location.
+
+With this tool, I need to provide patch with only changed files to him maintaining the folder structure so that he can easily paste it in root folder without overlooking for the file location.
 
 Steps to Get Started:
 ### 1. Checkout this attached PasteWithFolderStructure.exe
