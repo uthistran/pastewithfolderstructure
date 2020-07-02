@@ -19,8 +19,13 @@ Steps to Get Started:
     Right Click and Add New Key
     
 ### 6. Rename the key to your wish. I used PasteInFolderStructure
-        (This Name will be shown on context menu)
+    This Name will be shown on context menu
 
 ### 7. Add new key called command in PasteInFolderStructure.
     The final look will be as below
 ![Registry2](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/2.PNG)
+
+
+### 8. In the right side window, Right Click on Default and select modify
+    Add the file path of the PasteWithFolderStructure.exe within quotes in Value data
+![Registry3](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/2.PNG)    
