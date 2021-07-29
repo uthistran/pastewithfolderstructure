@@ -11,11 +11,12 @@ With this tool, I need to provide patch with only changed files to him maintaini
 
 Steps to Get Started:
 ### 1. Checkout this attached PasteWithFolderStructure.exe
+    Move to any folder of your wish
 ### 2. Take Full path of the exe
-    ex : D:\Uthis\pwfs\trunk\PasteWithFolderStructure.exe
+    ex : D:\Uthis\PasteWithFolderStructure.exe
     
 The remaining steps helps to setup to access the tool in context menu i.e via a right click while pasting files
-### 3. Open Registry 
+### 3.  Checkout this attached install.bat and edit it
     Press Win + R; type regedit and press Enter
     
 ![Registry](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/1.PNG)
