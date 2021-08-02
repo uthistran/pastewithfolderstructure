@@ -1,51 +1,35 @@
-# PasteWithFolderStructure
-Tool to Paste files with maintaining folder structure
+# (Super Paste) PasteWithFolderStructure
+Tool to Paste file(s) with maintaining folder structure
 
 This Tool helps you overcome the problem many have faced similar to me.
-I was working with my customer and he gives me suggestion to change the website design/functionality day by day. I was changing CSS/JS/HTML in one or two files out of 100's of files in the project. 
+I was working with my customer and the customer gives me suggestion to change the website design/functionality day by day. I was changing one or two of CSS/JS/HTML/JSON/Images out of 100's of files in the project. 
 
-I want to give him the complete project to replace or ask him to replace the changed files one by one in various folders which is a tedious one.
-So come up with this tool to minimize my work of either giving the complete package or to explain him to replace the files in exact path.
+I want to give them the complete project to replace or ask them to replace the changed files one by one in various folders which is a tedious one.
+So come up with this tool to minimize both my work and customer's work of either giving the complete package or to explain them to replace the files in exact path which is error prone
 
-With this tool, I need to provide patch with only changed files to him maintaining the folder structure so that he can easily paste it in root folder without overlooking for the file location.
+With this tool, I will copy the changed file(s), paste it in a location by maintaing the folder structure. Then give that as a patch to customer. Customer can easily paste it in the root folder without overlooking for the file location.
 
 Steps to Get Started:
-### 1. Checkout this attached PasteWithFolderStructure.exe
+### 1. Checkout this attached SuperPaste.exe
     Move to any folder of your wish
 ### 2. Take Full path of the exe
-    ex : D:\Uthis\PasteWithFolderStructure.exe
+    ex : D:\Uthis\SuperPaste.exe
+### 3. Checkout this attached install.bat and edit it
+![Registry](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/carbon.png)
+    Change the loaction of the file path and save it.
     
-The remaining steps helps to setup to access the tool in context menu i.e via a right click while pasting files
-### 3.  Checkout this attached install.bat and edit it
-    Press Win + R; type regedit and press Enter
-    
-![Registry](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/1.PNG)
-
-### 4. Navigate to "Computer\HKEY_CLASSES_ROOT\Directory\Background\shell"
-
-### 5. Add New key to the shell
-    Right Click and Add New Key
-    
-### 6. Rename the key to your wish. I used PasteInFolderStructure
-    This Name will be shown on context menu
-
-### 7. Add new key called command in PasteInFolderStructure.
-    The final look will be as below
-![Registry2](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/2.PNG)
-
-
-### 8. In the right side window, Right Click on Default and select modify
-    Add the file path of the PasteWithFolderStructure.exe within quotes in Value data
-![Registry3](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/3.PNG)    
-
+### 4. Run the install.bat in administrator mode.  
+   You will recieve a below message once completed
+![Registry](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/superpaste1.PNG)
 
 ### Now we are all set to use this tool
 
-* Copy any File/Files in a folder
+* Copy any file(s) from a folder
 * Right click where you want to paste the file(s) in folder structure
-    ![Tool2](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/5.png)
-* Click on PasteInFolderStructure (or the name you gave in step #6)
+    ![Tool2](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/superpaste2.png)
+* Click on SuperPaste
     A window will display to select the base folder
-    ![Tool1](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/4.PNG)  
-* Click the folder from which you want to maintain folder structure and click paste. I have selected Test in it
+    ![Tool1](https://github.com/uthistran/pastewithfolderstructure/blob/master/blob/master/images/superpaste3.PNG)  
+* Click the folder from which you want to maintain folder structure and click paste. I have selected menudisplay in it
 * Your file(s) will be pasted with folder structure
+* You can share this menudisplay folder to your customer. He can paste this in menudisplay folder without looking for the exact file location
